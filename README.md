@@ -7,6 +7,7 @@ A curated collection of GPS route files for motorcyclists, overlanders, and outd
 ## Contents
 
 - [Route Categories](#route-categories)
+- [Routes](#routes)
 - [Using These Files](#using-these-files)
 - [Compatible Apps & Devices](#compatible-apps--devices)
 - [Contributing](#contributing)
@@ -20,6 +21,20 @@ A curated collection of GPS route files for motorcyclists, overlanders, and outd
 | Road / Motorcycle | Active | Paved road routes optimized for motorcycles |
 | ADV / Dual-Sport | Planned | Mixed-surface routes for adventure riding |
 | Overlanding & Camping | Planned | Multi-day routes with camping waypoints |
+
+---
+
+## Routes
+
+### Road / Motorcycle
+
+| Route | File |
+|-------|------|
+| Emmett-Middleton Loop | [Emmett-Middleton Loop.gpx](Emmett-Middleton%20Loop.gpx) |
+| Horseshoe Bend - Emmett Loop | [Horseshoe Bend - Emmett Loop.gpx](Horseshoe%20Bend%20-%20Emmett%20Loop.gpx) |
+| Lowell-MapRock Loop | [Lowell-MapRock Loop.gpx](Lowell-MapRock%20Loop.gpx) |
+| Notus-Parma-Wilder-MapRock Loop | [Notus-Parma-Wilder-MapRock Loop.gpx](Notus-Parma-Wilder-MapRock%20Loop.gpx) |
+| Snake River Loop | [Snake River Loop.gpx](Snake%20River%20Loop.gpx) |
 
 ---
 
