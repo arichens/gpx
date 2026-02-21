@@ -1,6 +1,6 @@
 # GPX Routes
 
-A curated collection of GPS route files for motorcyclists, overlanders, and outdoor enthusiasts. Routes are provided as a free resource for the riding and outdoor community.
+A curated collection of GPS route files in and around the Treasure Valley, Idaho area for motorcyclists, overlanders, and outdoor enthusiasts. Routes are provided as a free resource for the riding and outdoor community.
 
 ---
 
